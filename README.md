@@ -1,5 +1,5 @@
 # machinelearning
-Notes from David Ben Shimol's talk at CODE on "Machine Learning: a shallow intro to deep learning" (March 22, 2016).
+Notes from David Ben Shimol's talk at CODE on "Machine Learning: a shallow intro to deep learning" March 22, 2016.
 
 ### Tutorials and Online Courses
 - Tutorials: Deeplearning.net
